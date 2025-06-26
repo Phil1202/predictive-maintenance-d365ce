@@ -1,0 +1,9 @@
+# Optional: temporäre Dateien
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb_checkpoints
+.DS_Store
+Thumbs.db
+
+# Deine Daten und Modelle werden nicht ignoriert!
