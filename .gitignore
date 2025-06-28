@@ -6,4 +6,5 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Deine Daten und Modelle werden nicht ignoriert!
+# Virtuelle Umgebung ignorieren
+pdm365-ce/

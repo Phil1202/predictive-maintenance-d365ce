@@ -17,6 +17,10 @@ shap==0.48.0
 python-dateutil==2.9.0.post0
 PyYAML==6.0.2
 
+# FastAPI
+fastapi
+uvicorn 
+
 # requirements_dev.txt
 jupyterlab
 notebook
