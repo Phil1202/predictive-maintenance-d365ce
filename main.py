@@ -36,6 +36,7 @@ def predict_failure(input: PredictionInput):
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
     
+    
 @app.post("/anomaly")
 def detect_anomaly(input: PredictionInput):
     try:
